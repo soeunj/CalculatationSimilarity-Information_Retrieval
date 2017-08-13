@@ -1,0 +1,2 @@
+# CalculatationSimilarity-Information_Retrieval
+Calculating similarity of documents
